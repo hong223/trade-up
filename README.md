@@ -2,7 +2,8 @@
 Techlauncher program
  
 Project Audit 1 Landing Page
-<img height="700" src="https://github.com/hong223/trade-up/blob/master/images/Trade-Up.png" />
+<img src="https://raw.githubusercontent.com/Jasonluo666/trade-up/master/project/image/Trade-Up.png" />
+
 Content
 
 1. Value Delivered to the Client 
