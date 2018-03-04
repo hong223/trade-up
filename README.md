@@ -59,16 +59,19 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 ## Organisation of Project ##
 
 ### Team ###
- 1. Annalisa O'Sullivan - Trade Up - Client<br/>
- 2. Trent O'Sullivan - Trade Up - Client<br/>
- 3. Elena Williams - Tutor<br/>
- 4. Hong You - Project Leader<br/>
- 5. Tianhao Li - Technical Leader<br/>
- 6. Honggu Lin - Developer<br/>
- 7. Lin Peng - Developer<br/>
- 8. Jie Gao - Developer<br/>
- 9. Xinyu Hou - Developer<br/>
- 10.Qingyang Li - Developer<br/>
+
+| Team Member                      |        Role           | 
+| ---------------------------------| ----------------------| 
+| Annalisa O'Sullivan              | Client                |
+| Trent O'Sullivan                 | Client                | 
+| Hong You                         | Project Leader        | 
+| Tianhao Li                       | Technical Leader      |
+| Honggu Lin                       | Developer             |
+| Lin Peng                         | Developer             |
+| Jie Gao                          | Developer             |
+| Xinyu Hou                        | Developer             |
+| Qingyang Li                      | Developer             |
+
 
 [Detailed Information](https://docs.google.com/spreadsheets/d/1H-H8VXIQRvcCQ0B4kPnGwj3BTp5xR1Af0nwAcy8HQQo/edit#gid=0)
 
