@@ -19,7 +19,7 @@
 
 
 <h2>PROJECT OVERVIEW<h2>
-https://github.com/davidRoussov/trade-up/wiki
+https://github.com/hong223/trade-up/wiki
 <br>
 
 <h2><a name = "Title1"> 1. Value Delivered to the Client </a></h2>
