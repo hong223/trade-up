@@ -5,7 +5,7 @@
 </div>
 
 
-# Project Audit 3 Landing Page
+# Project Audit 1 Landing Page
 
 <h2><a name = "content"> Content </a></h2>
 <a href = "#Title1"><b> 1. Value Delivered to the Client </b></a><br/>
@@ -16,9 +16,7 @@
 <a href = "#Title6"><b> 6. Meetings</b></a><br/>
 <br>
 
-<h2>PROJECT SOURCE CODE (IN BITBUCKET)<h2>
-https://bitbucket.org/123tradeup/tu-techlauncher
-<br>
+
 
 <h2>PROJECT OVERVIEW<h2>
 https://github.com/davidRoussov/trade-up/wiki
@@ -64,12 +62,13 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
  1. Annalisa O'Sullivan - Trade Up - Client<br/>
  2. Trent O'Sullivan - Trade Up - Client<br/>
  3. Elena Williams - Tutor<br/>
- 4. Jie Gao - Project Lead<br/>
- 5. David Roussov - Technical Lead<br/>
+ 4. Hong You - Project Leader<br/>
+ 5. Tianhao Li - Technical Leader<br/>
  6. Honggu Lin - Developer<br/>
  7. Lin Peng - Developer<br/>
- 8. Hong You - Developer<br/>
- 9. Jason Luo - Developer<br/>
+ 8. Jie Gao - Developer<br/>
+ 9. Xinyu Hou - Developer<br/>
+ 10.Tianhao Li - Developer<br/>
 
 [Detailed Information](https://docs.google.com/spreadsheets/d/1H-H8VXIQRvcCQ0B4kPnGwj3BTp5xR1Af0nwAcy8HQQo/edit#gid=0)
 
