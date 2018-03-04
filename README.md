@@ -68,7 +68,7 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
  7. Lin Peng - Developer<br/>
  8. Jie Gao - Developer<br/>
  9. Xinyu Hou - Developer<br/>
- 10.Tianhao Li - Developer<br/>
+ 10.Qingyang Li - Developer<br/>
 
 [Detailed Information](https://docs.google.com/spreadsheets/d/1H-H8VXIQRvcCQ0B4kPnGwj3BTp5xR1Af0nwAcy8HQQo/edit#gid=0)
 
