@@ -110,9 +110,9 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 ## 2.6 Engagement With Stakeholders ##
 - We have individual meetings and chats with client whenever any of us have questions (phone, video chat, meet in office)
 
-- We have regular client meeting from 7pm - 9pm every fortnight on Wednesday.
+- We have regular client meeting from 2pm - 3pm every Saturday.
 
-- During our 2-hour client meeting, we ask client questions and update client the progress of our project.
+- During our 1-hour client meeting, we ask client questions and update client the progress of our project.
 
 ## 2.7 Professional Team Attitude ##
 - We are always in contact with our client. 
@@ -135,7 +135,7 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 </tr>
 <tr align = "center">
 <td><b>Period</b></td>
-<td><b>5th March - 18th March</b></td>
+<td><b></b></td>
 </tr>
 </table>
 
@@ -148,10 +148,6 @@ This will involve setting up a development environment for each member of the Te
 
 Furthermore, we will now have to acquaint ourselves with the system architecture of a mature codebase, as well as becoming familiar with Angular and any other development practices that Trade Up uses as part of their developer and operations workflows. It is our intention that much of this will be completed within the current sprint and over the summer break, so that when we begin the next semester, we are in a prime position to be immediately productive.
 
-<h3>System Archictecture of The Protyping System/Environment</h3>
-
-![image](https://user-images.githubusercontent.com/7090914/31581873-ab8d40d0-b1c0-11e7-85e3-045a21041f2f.png)
-
 <h2><a name = "Title4"> 4. Effective and Appropriate Decision Making </a></h2>
 
 We make decisions during the client meeting and scrum meeting and the decision making documents are in Google Drive:
@@ -159,16 +155,14 @@ We make decisions during the client meeting and scrum meeting and the decision m
 
 <h2><a name = "Title5"> 5. Project Outputs </a></h2>
 
-
-
 ## 5.1 Technical Depth of Outputs: ##
 
-- We spend lots of time figure out all the units and meanings of the construction variables. We spend lots of time and effort to calculate each dependencies and make sure we understand all the calculation and algorithms. Although it was a time consuming job and require lots of calculation and formula, now we have a full, deep and clear understanding of our customers’ website and how they operate. This will provide great benefit for future development.
-- github has some weird merge conflict during commit push and pull. There are randomly appeared files that cannot be git ignored or deleted.
-- React has its formal standard format for coding which makes it hard to write as we need to strictly follow the format.
-- Issues with Grails tooling on particular operating systems impeding developer productivity.
-- Gradle cached build dependencies that caused permission errors when committing to Git.
-- Cross Origin Resource Sharing issues because the frontend is based on Webpack Dev Server which is a server separate to the Grails server and runs on a different port.
+- Current status is in progress with research, UI design for the Epic 2 rostering system. 
+- Team members will have to figure out how to design a rostering system with flexibility of moving employees from project to project.
+
+<h3>System Archictecture of The Protyping System/Environment</h3>
+
+![image](https://user-images.githubusercontent.com/7090914/31581873-ab8d40d0-b1c0-11e7-85e3-045a21041f2f.png)
 
 ## 5.2 Technical Breadth of Outputs: ##
 
