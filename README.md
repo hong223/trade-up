@@ -139,14 +139,11 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 </tr>
 </table>
 
-<h3>Sprint 1 - Preparing for the Next Stage of the Project</h3>
-With the completion of the company and project calendars within our own prototyping environment, we have now been in the process of integrating these features into their existing codebase, to be deployed into production. At the same time, we are now ready to proceed with the next Agile "Epic" - the allocation of specific employees to projects based on the project calendar we have made. This will be the focus of our next sprint in the following semester, however the development workflow will be different going forward in that we will be working within their existing main repository (branching as necessary).  
-
-
-This will involve setting up a development environment for each member of the Techlauncher team that will allow them to develop for the main Trade Up system. This includes configuring a MySQL database, populating it with the necessary development test data, as well has making sure various dependencies are correctly installed with the appropriate version. 
-
-
-Furthermore, we will now have to acquaint ourselves with the system architecture of a mature codebase, as well as becoming familiar with Angular and any other development practices that Trade Up uses as part of their developer and operations workflows. It is our intention that much of this will be completed within the current sprint and over the summer break, so that when we begin the next semester, we are in a prime position to be immediately productive.
+<h3>Current Status- Sprint 1 </h3>
+- Learn Angular5
+- Research on rostering system
+- UI Design 
+- Display allocation n the project calendar per employee
 
 <h2><a name = "Title4"> 4. Effective and Appropriate Decision Making </a></h2>
 
