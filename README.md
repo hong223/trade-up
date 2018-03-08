@@ -14,9 +14,7 @@
 <a href = "#Title4"><b> 4. Effective and Appropriate Decision Making </b></a><br/>
 <a href = "#Title5"><b> 5. Project Outputs </b></a><br/>
 <a href = "#Title6"><b> 6. Meetings</b></a><br/>
-<a href = "#Title7"><b> 7. Project Audit Presentations</b></a><br/>
-
-v<br>
+<br>
 
 
 
@@ -41,10 +39,6 @@ https://github.com/hong223/trade-up/wiki
 6. Trade-Up have now have the ability to transfer created calendar and resource estaimte algorithms to their other features.  
 
 Below chart shows 35/41 issues in Sprint 4 which have all been completed - with the remaining tasks left under the Trade-Up employed team.
-
-![image](https://user-images.githubusercontent.com/7090914/31581396-875b4964-b1b6-11e7-96d1-7462fd8153b8.png)
-<p align="center" vertical-align = "middle"><b> Sprint 4 User Stories Burndown Chart </b></p>
-</br>
 
 <h2><a name = "Title2"> 2. Project Governance </a></h2>
 
@@ -199,8 +193,3 @@ We tried and used different tools in order to optimise our output
 ![](https://github.com/davidRoussov/trade-up/blob/master/images/hub.jpg)
 
 <h2><a name = "Title6"> 6. Meetings</a></h2>
-https://drive.google.com/drive/u/0/folders/1iFW_xyqdSVsXm1pSLK5zwiSYRLSvgXNO
-
-<h2><a name = "Title7"> 7. Project Audit Presentations </a></h2>
-Week 3 - Project Audit 1 https://docs.google.com/presentation/d/1ag6gW8NprOyJZ5MZUa2L0oE0ZTlwYpIis3cQhmUTojQ/edit#slide=id.g34bb9c902b_0_131
-
