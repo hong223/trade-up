@@ -69,12 +69,8 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 
 [Detailed Information](https://docs.google.com/spreadsheets/d/1H-H8VXIQRvcCQ0B4kPnGwj3BTp5xR1Af0nwAcy8HQQo/edit#gid=0)
 
-![](http://www.trade-up.com.au/wp-content/uploads/2017/08/Resized_20170816_211412.jpeg (198kB)
-)
- <p align="center" vertical-align="middle"><b> Week 3 Client Meeting </b></p>
-
 ![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Project%20Showcase.jpg?raw=true)
-<p align="center" vertical-align="middle"><b> Week 10 Project Showcase </b></p>
+<p align="center" vertical-align="middle"><b> Team </b></p>
 
 ### Development Approach ###
 - The development approach we adapt is agile methodology. We hold weekly sunday meetings consists of Scrum. The time of our weekly Scrum meeting is from 1pm - 5pm every Sunday. 
