@@ -164,7 +164,7 @@ We make decisions during the client meeting and scrum meeting and the decision m
 ## 5.2 Technical Breadth of Outputs: ##
 
 We tried and used different tools in order to optimise our output
-- React for front end development
+- Angular5 for front end development
 - Mysql for database
 - Excel for mock-up for algorithms
 - Grails for back-end
@@ -177,8 +177,6 @@ We tried and used different tools in order to optimise our output
 - Slack for communication
 - Github for Landing Page
 - Google Drive for file/notes sharing
-
-![](https://github.com/davidRoussov/trade-up/blob/master/images/hub.jpg)
 
 <h2><a name = "Title6"> 6. Meetings</a></h2>
 Meeting Note in Google Drive: https://drive.google.com/drive/folders/0Bzc3lP9XuDfva1U5T2NraHpsa2M
