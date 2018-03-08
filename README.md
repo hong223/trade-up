@@ -120,7 +120,7 @@ The team have engaged well in the planning and reporting process outlined by us 
 </tr>
 <tr align = "center">
 <td><b>Period</b></td>
-<td><b></b></td>
+<td><b>5th March to 18th March</b></td>
 </tr>
 </table>
 
