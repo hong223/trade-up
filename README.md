@@ -114,13 +114,6 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 
 - During our 1-hour client meeting, we ask client questions and update client the progress of our project.
 
-## 2.7 Professional Team Attitude ##
-- We are always in contact with our client. 
-
-- We dress professional casual during our client meeting. 
-
-- We follow requirements and keep everything in confidentially as per.
-
 
 <h2><a name = "Title3"> 3. Current Project Progress </a></h2>
 
