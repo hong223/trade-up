@@ -154,17 +154,14 @@ Furthermore, we will now have to acquaint ourselves with the system architecture
 
 <h2><a name = "Title4"> 4. Effective and Appropriate Decision Making </a></h2>
 
-[Risk Management](https://docs.google.com/spreadsheets/d/1OovpTOIJ-9aUBdObCQ6EKUogwbCSB4FADGcENCZAEn0/edit#gid=775460604)
-
-[Decision Making Progress](https://docs.google.com/document/d/1s27j4EKKgcSOZXdcxydqvtI2ei2_35DOFEVF0QosD94/edit)
+We make decisions during the client meeting and scrum meeting and the decision making documents are in Google Drive:
+[Decision Making Progress](https://drive.google.com/drive/u/0/folders/1IuBq4XwApiF065wKMdeb74MtCMnnQjGz)
 
 <h2><a name = "Title5"> 5. Project Outputs </a></h2>
 
 
 
-
-
-## Technical Depth of Outputs: ##
+## 5.1 Technical Depth of Outputs: ##
 
 - We spend lots of time figure out all the units and meanings of the construction variables. We spend lots of time and effort to calculate each dependencies and make sure we understand all the calculation and algorithms. Although it was a time consuming job and require lots of calculation and formula, now we have a full, deep and clear understanding of our customers’ website and how they operate. This will provide great benefit for future development.
 - github has some weird merge conflict during commit push and pull. There are randomly appeared files that cannot be git ignored or deleted.
@@ -173,7 +170,7 @@ Furthermore, we will now have to acquaint ourselves with the system architecture
 - Gradle cached build dependencies that caused permission errors when committing to Git.
 - Cross Origin Resource Sharing issues because the frontend is based on Webpack Dev Server which is a server separate to the Grails server and runs on a different port.
 
-## Technical Breadth of Outputs: ##
+## 5.2 Technical Breadth of Outputs: ##
 
 We tried and used different tools in order to optimise our output
 - React for front end development
