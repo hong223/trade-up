@@ -70,9 +70,8 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 
 [JIRA Dashboard](https://tradeup123.atlassian.net/secure/Dashboard.jspa)
 
-## Organisation of Project ##
 
-### Team ###
+## 2.4 Team ##
 
 | Team Member                      |        Role           | 
 | ---------------------------------| ----------------------| 
@@ -87,9 +86,12 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 | Qingyang Li                      | Developer             |
 
 
+[Detailed Information](https://docs.google.com/spreadsheets/d/1H-H8VXIQRvcCQ0B4kPnGwj3BTp5xR1Af0nwAcy8HQQo/edit#gid=0)
 
+![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Project%20Showcase.jpg?raw=true)
+<p align="center" vertical-align="middle"><b> Team </b></p>
 
-### Development Approach ###
+## 2.5 Development Approach ##
 - The development approach we adapt is agile methodology. We hold weekly sunday meetings consists of Scrum. The time of our weekly Scrum meeting is from 1pm - 5pm every Sunday. 
 
 - Each team member answers 3 following questions: 
@@ -101,33 +103,54 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 
 - Each sprint will last 2 weeks, where each member will work on the allocated task individually during the week and during team weekly meeting we come together and work on unresolved or difficulty tasks as a team.
 
-### Engagement With Stakeholders ###
+## 2.6 Engagement With Stakeholders ##
 - We have individual meetings and chats with client whenever any of us have questions (phone, video chat, meet in office)
 
 - We have regular client meeting from 7pm - 9pm every fortnight on Wednesday.
 
 - During our 2-hour client meeting, we ask client questions and update client the progress of our project.
 
-### Professional Team Attitude ###
+## 2.7 Professional Team Attitude ##
 - We are always in contact with our client. 
 
 - We dress professional casual during our client meeting. 
 
 - We follow requirements and keep everything in confidentially as per.
 
-### Team Collaboration ###
+## 2.8 Team Collaboration ##
 - We have meeting with clients and discuss what we did and what we are going to do. If anyone have more questions, they can organise individual meeting time with the client. Then team members and client will create tasks on JIRA. We assign tasks on JIRA and members will work together on some related tasks. For example, Sprint 4 and the on-going Sprint 5, tasks were created by the team and the client together. Tasks were allocated to each team member, whereas each member picked the task(s) they wanted to do, and remaining unpicked tasks were allocated by team lead. 
 
 - Team communication have been transitioned from Facebook to Slack where team have the opportunity to communicate with internal team members, client, tutor, and shadow team within one platform. 
 
 
+<p align="center">
+ <img src="https://github.com/davidRoussov/trade-up/blob/master/images/1.jpg" height="610" width="600">
+</p>
+<p align="center" vertical-align="middle"><b> Week 3 Client Meeting </b></p>
 
 
+<p align="center">
+ <img src="https://github.com/davidRoussov/trade-up/blob/master/images/2.jpg" height="610" width="600">
+</p>
+<p align="center" vertical-align="middle"><b> Week 9 Team Meeting </b></p>
 
 
 <h2><a name = "Title3"> 3. Current Project Progress </a></h2>
 
-
+<table borde r= 3>
+<tr align = "center">
+<th>Current sprint</th>
+<th>sprint 1</th>
+</tr>
+<tr align = "center">
+<td><b>Total sprints in this semester</b></td>
+<td><b>4</b></td>
+</tr>
+<tr align = "center">
+<td><b>Period</b></td>
+<td><b>5th March - 18th March</b></td>
+</tr>
+</table>
 
 <h3>Sprint 1 - Preparing for the Next Stage of the Project</h3>
 With the completion of the company and project calendars within our own prototyping environment, we have now been in the process of integrating these features into their existing codebase, to be deployed into production. At the same time, we are now ready to proceed with the next Agile "Epic" - the allocation of specific employees to projects based on the project calendar we have made. This will be the focus of our next sprint in the following semester, however the development workflow will be different going forward in that we will be working within their existing main repository (branching as necessary).  
