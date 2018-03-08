@@ -187,4 +187,4 @@ We tried and used different tools in order to optimise our output
 ![](https://github.com/davidRoussov/trade-up/blob/master/images/hub.jpg)
 
 <h2><a name = "Title6"> 6. Meetings</a></h2>
-Meeting Not in Google Drive: https://drive.google.com/drive/folders/0Bzc3lP9XuDfva1U5T2NraHpsa2M
+Meeting Note in Google Drive: https://drive.google.com/drive/folders/0Bzc3lP9XuDfva1U5T2NraHpsa2M
