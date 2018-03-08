@@ -199,6 +199,8 @@ We tried and used different tools in order to optimise our output
 ![](https://github.com/davidRoussov/trade-up/blob/master/images/hub.jpg)
 
 <h2><a name = "Title6"> 6. Meetings</a></h2>
+https://drive.google.com/drive/u/0/folders/1iFW_xyqdSVsXm1pSLK5zwiSYRLSvgXNO
 
 <h2><a name = "Title7"> 7. Project Audit Presentations </a></h2>
+Week 3 - Project Audit 1 https://docs.google.com/presentation/d/1ag6gW8NprOyJZ5MZUa2L0oE0ZTlwYpIis3cQhmUTojQ/edit#slide=id.g34bb9c902b_0_131
 
