@@ -124,34 +124,13 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 - Team communication have been transitioned from Facebook to Slack where team have the opportunity to communicate with internal team members, client, tutor, and shadow team within one platform. 
 
 
-<p align="center">
- <img src="https://github.com/davidRoussov/trade-up/blob/master/images/1.jpg" height="610" width="600">
-</p>
-<p align="center" vertical-align="middle"><b> Week 3 Client Meeting </b></p>
 
 
-<p align="center">
- <img src="https://github.com/davidRoussov/trade-up/blob/master/images/2.jpg" height="610" width="600">
-</p>
-<p align="center" vertical-align="middle"><b> Week 9 Team Meeting </b></p>
 
 
 <h2><a name = "Title3"> 3. Current Project Progress </a></h2>
 
-<table borde r= 3>
-<tr align = "center">
-<th>Current sprint</th>
-<th>sprint 1</th>
-</tr>
-<tr align = "center">
-<td><b>Total sprints in this semester</b></td>
-<td><b>4</b></td>
-</tr>
-<tr align = "center">
-<td><b>Period</b></td>
-<td><b>5th March - 18th March</b></td>
-</tr>
-</table>
+
 
 <h3>Sprint 1 - Preparing for the Next Stage of the Project</h3>
 With the completion of the company and project calendars within our own prototyping environment, we have now been in the process of integrating these features into their existing codebase, to be deployed into production. At the same time, we are now ready to proceed with the next Agile "Epic" - the allocation of specific employees to projects based on the project calendar we have made. This will be the focus of our next sprint in the following semester, however the development workflow will be different going forward in that we will be working within their existing main repository (branching as necessary).  
