@@ -38,8 +38,6 @@ https://github.com/hong223/trade-up/wiki
 
 6. Trade-Up have now have the ability to transfer created calendar and resource estaimte algorithms to their other features.  
 
-Below chart shows 35/41 issues in Sprint 4 which have all been completed - with the remaining tasks left under the Trade-Up employed team.
-
 <h2><a name = "Title2"> 2. Project Governance </a></h2>
 
 ## Evidence of Decision Making ##
