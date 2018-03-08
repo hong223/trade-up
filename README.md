@@ -4,79 +4,73 @@
 <img src="https://github.com/Jasonluo666/trade-up/blob/master/project/image/Trade-Up.png?raw=true" width="620" align="AbsBottom">
 </div>
 
-
-# Project Audit 1 Landing Page
-
-<h2><a name = "content"> Content </a></h2>
-<a href = "#Title1"><b> 1. Value Delivered to the Client </b></a><br/>
+<h2><a name = "content"> Table of Contents </a></h2>
+<a href = "#Title1"><b> 1. Project Overview </b></a><br/>
 <a href = "#Title2"><b> 2. Project Governance </b></a><br/>
 <a href = "#Title3"><b> 3. Current Project Progress </b></a><br/>
 <a href = "#Title4"><b> 4. Effective and Appropriate Decision Making </b></a><br/>
 <a href = "#Title5"><b> 5. Project Outputs </b></a><br/>
-<a href = "#Title6"><b> 6. Meetings</b></a><br/>
-<br>
+<a href = "#Title6"><b> 6. Minute Meetings</b></a><br/>
+<a href = "#Title7"><b> 7. Extra</b></a><br/>
+<br />
 
+<h2><a name = "Title1"> 1.Project Overview </a></h2>
 
+[Trade Up](www.trade-up.com/au) is a software company that aims to solve the inefficiency of the labour usage in Australian construction companies. The cost of employment as well as the cost of materials are consistent amongst subcontractors due to industrial relations and working conditions such as weather. Thus, it is vital to point out the amount of workers working on particular jobs in terms of economic terms. This will help to carry out work using the least amount of money.
 
-<h2>PROJECT OVERVIEW<h2>
-https://github.com/hong223/trade-up/wiki
-<br>
+**Client's Vision**
+Automate current default values associated with productivity of construction companies with existing and future data. 
 
-<h2><a name = "Title1"> 1. Value Delivered to the Client </a></h2>
+**Project Value**
+Provide a user friendly platform that can calculate employees' productivity, roster and allocate employees, and generate smart decisions with users' data within the context of productivity.
 
+- Trade-Up clients including subcontractors are able to visualise the project work productivity instead of using paper & pen.
+- Subcontractors will be able to transition from collecting and tracking employees' workflow online instead of paper & pen approach.
+- Trade-Up will have the ability to transfer created calendar and resource estaimte algorithms to their other features.  
+- Rostering system that can allocate employees to each project . 
 
-1. Subcontractors can track project progress and make adjustments for workers to maximise productivity. 
-
-2. Subcontractors are able to forecast work completion date including contract/work completion days, and contract start and end date.
-
-3. Human errors for each construction project can be predicted for each project site.
-
-4. A user-friendly interface for Trade-Up clients have been created to allow easy navigation through tracking each construction project.
-
-5. Trade-Up clients including subcontractors are able to visualise their project using the implemented calendar instead of predicting resources and dates on paper.
-
-6. Trade-Up have now have the ability to transfer created calendar and resource estaimte algorithms to their other features.  
-
-7. Create a rostering system that can allocate employees to each project 
-
-8. connect rostering system with project calendar
-
-9. Display allocation on the project calendar per employee, enable re-allocation of employee to different project if needed
-
-
+<br />
 <h2><a name = "Title2"> 2. Project Governance </a></h2>
 
-## 2.1 Milestones ##
-Milestone 1: Project Calendar
+<h3> 2.1 Milestones </h3>
 
-Sprint 1 (Week 3 - Week 4) : Research, look at Angular tutorials, and find similar rostering examples. Roster UI design.
+<h4>Milestone 1: Project Calendar</h4>
 
-Sprint 2 (Week 5 - Week 6): Start development for project calendar features.
+>**Sprint 1** (Week 3 - Week 4)<br />
+Research, look at Angular tutorials, find similar rostering examples, and create roster UI design.
 
-Milestone 2: Employee Rostering
+>**Sprint 2** (Week 5 - Week 6)<br />
+Start development for project calendar features.
 
-Sprint 3 (Week 7 - Week 8): Link employee availability to the project calendar.
+<h4>Milestone 2: Employee Rostering</h4>
 
-Sprint 4 (Week 9 - Week 10) : Set up final version of development & prepare for poster showcase.
+>**Sprint 3** (Week 7 - Week 8)<br />
+Link employee availability to the project calendar.
+
+>**Sprint 4** (Week 9 - Week 10)<br />
+Set up final version of development & prepare for poster showcase.
 
 
-## 2.2 Evidence of Decision Making ##
+<h3> 2.2 Evidence of Decision Making</h3>
 The team have engaged well in the planning and reporting process outlined by us at the beginning of the project. Every team members were involved in decision making and project planning. The team appear to be communicating well between themselves and are committed to achieving a customer product feature by the end of the semester. We have created a Decision Making Trace File to record all the decisions made either with our client or during group meeting since the beginning of the semester. 
-This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L9yKbjV6NV9PaW5GN00)
+
+[Decision Making Sheet](https://docs.google.com/document/d/1rNijuexMwzqXhBVuOw6-GahGKt6cx17uGpKY4V0NzUo/edit)
 
 
-## 2.3 Traceability of Actions ##
+<h3> 2.3 Traceability of Actions </h3>
+
 [See Jira Work log](https://tradeup123.atlassian.net/projects/TR/summary)
 
 [JIRA Dashboard](https://tradeup123.atlassian.net/secure/Dashboard.jspa)
 
 
-## 2.4 Team ##
+<h3> 2.4 Team </h3>
 
 | Team Member                      |        Role           | 
 | ---------------------------------| ----------------------| 
 | Annalisa O'Sullivan              | Client                |
 | Trent O'Sullivan                 | Client                | 
+| David Roussov                    | Client                | 
 | Hong You                         | Project Leader        | 
 | Tianhao Li                       | Technical Leader      |
 | Honggu Lin                       | Developer             |
@@ -88,14 +82,11 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 
 [Detailed Information](https://docs.google.com/spreadsheets/d/1H-H8VXIQRvcCQ0B4kPnGwj3BTp5xR1Af0nwAcy8HQQo/edit#gid=0)
 
-![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Project%20Showcase.jpg?raw=true)
-<p align="center" vertical-align="middle"><b> Team </b></p>
-
 - We have meeting with clients and discuss what we did and what we are going to do. If anyone have more questions, they can organise individual meeting time with the client. Then team members and client will create tasks on JIRA. We assign tasks on JIRA and members will work together on some related tasks.
 
 - Team communication have been transitioned from Facebook to Slack where team have the opportunity to communicate with internal team members, client, tutor, and shadow team within one platform. 
 
-## 2.5 Development Approach ##
+<h3> 2.5 Development Approach </h3>
 - The development approach we adapt is agile methodology. We hold weekly sunday meetings consists of Scrum. The time of our weekly Scrum meeting is from 2pm - 3pm every Saturday at the provided workspace by Trade Up. 
 
 - Each team member answers 3 following questions: 
@@ -107,14 +98,21 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 
 - Each sprint will last 2 weeks, where each member will work on the allocated task individually during the week and during team weekly meeting we come together and work on unresolved or difficulty tasks as a team.
 
-## 2.6 Engagement With Stakeholders ##
+<h3> 2.6 Engagement With Stakeholders </h3>
 - We have individual meetings and chats with client whenever any of us have questions (phone, video chat, meet in office)
 
 - We have regular client meeting from 2pm - 3pm every Saturday.
 
 - During our 1-hour client meeting, we ask client questions and update client the progress of our project.
 
+<h3> 2.7 Professional Team Attitude</h3>
+- We are always in contact with our client. 
 
+- We dress professional casual during our client meeting. 
+
+- We follow requirements and keep everything in confidentially as per.
+
+<br />
 <h2><a name = "Title3"> 3. Current Project Progress </a></h2>
 
 <table borde r= 3>
@@ -133,47 +131,54 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 </table>
 
 <h3>Current Status- Sprint 1 </h3>
-
 - Learn Angular5
-
 - Research on rostering system
-
 - UI Design
+- Display allocation in the project calendar per employee
+- Find more info on 
+[current status](https://tradeup123.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=TR&view=planning.nodetail&selectedIssue=TR-2&epics=visible)
 
-- Display allocation and the project calendar per employee
-
-- Find more info. on
-(https://tradeup123.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=TR&view=planning.nodetail&selectedIssue=TR-2&epics=visible)
-
+<br />
 <h2><a name = "Title4"> 4. Effective and Appropriate Decision Making </a></h2>
 
 We make decisions during the client meeting and scrum meeting and the decision making documents are in Google Drive:
-[Decision Making Progress](https://drive.google.com/drive/u/0/folders/1IuBq4XwApiF065wKMdeb74MtCMnnQjGz)
+
+[Decision Making Progress](https://docs.google.com/document/d/1rNijuexMwzqXhBVuOw6-GahGKt6cx17uGpKY4V0NzUo/edit)
+
+<br />
 
 <h2><a name = "Title5"> 5. Project Outputs </a></h2>
 
-## 5.1 Technical Depth of Outputs: ##
+<h3> 5.1 Technical Depth of Outputs:</h3>
 
 - Current status is in progress with research, UI design for the Epic 2 rostering system. 
-- Team members will have to figure out how to design a rostering system with flexibility of moving employees from project to project.
+- Team members will have to figure out how to design and implement a rostering system with flexibility of moving employees from project to project.  
 
 <h3>System Archictecture of The Protyping System/Environment</h3>
 
 ![image](https://user-images.githubusercontent.com/7090914/31581873-ab8d40d0-b1c0-11e7-85e3-045a21041f2f.png)
 
-## 5.2 Technical Breadth of Outputs: ##
+<h3> 5.2 Technical Breadth of Outputs: </h3>
 
 We tried and used different tools in order to optimise our output
-- Angular5 for front end development
-- Mysql for database
-- Excel for mock-up for algorithms
-- Grails for back-end
-- Webpack for module bundling, minification and optimisation
-- Babel transpilation
-- JIRA for agile project management
-- Slack for communication
-- Github for Landing Page
-- Google Drive for file/notes sharing
+- **Angular5** for front end development
+- **Mysql** for database
+- **Excel** for mock-up for algorithms
+- **Grails** for back-end
+- **JIRA** for agile project management
+- **Doodle** for organising meeting
+- **Slack** for communication
+- **Github** for landing page
+- **Google Drive** for notes and documents
 
+<br />
 <h2><a name = "Title6"> 6. Meetings</a></h2>
-Meeting Note in Google Drive: https://drive.google.com/drive/folders/0Bzc3lP9XuDfva1U5T2NraHpsa2M
+Meeting Note in 
+[Google Drive](https://drive.google.com/drive/folders/0Bzc3lP9XuDfva1U5T2NraHpsa2M)
+
+<br />
+<br />
+<h2><a name = "Title7"> 7. Extra</a></h2>
+
+![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Project%20Showcase.jpg?raw=true)
+<p align="center" vertical-align="middle"><b> Team showcase from Epic 1</b></p>
