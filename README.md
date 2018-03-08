@@ -140,9 +140,10 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 
 - UI Design
 
-- Display allocation n the project calendar per employee
+- Display allocation and the project calendar per employee
 
-- Find more info. on (https://tradeup123.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=TR&view=planning.nodetail&selectedIssue=TR-2&epics=visible)
+- Find more info. on
+(https://tradeup123.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=TR&view=planning.nodetail&selectedIssue=TR-2&epics=visible)
 
 <h2><a name = "Title4"> 4. Effective and Appropriate Decision Making </a></h2>
 
