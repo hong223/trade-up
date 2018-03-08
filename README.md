@@ -38,6 +38,15 @@ https://github.com/hong223/trade-up/wiki
 
 6. Trade-Up have now have the ability to transfer created calendar and resource estaimte algorithms to their other features.  
 
+
+Epic 2 
+Create a rostering system
+Connect rostering system with project calendar
+Allocate employees to each project 
+Display allocation on the project calendar per employee
+Enable re-allocation of employee to different project if needed
+
+
 <h2><a name = "Title2"> 2. Project Governance </a></h2>
 
 ## Milestones ##
