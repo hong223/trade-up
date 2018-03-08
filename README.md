@@ -105,12 +105,6 @@ The team have engaged well in the planning and reporting process outlined by us 
 
 - During our 1-hour client meeting, we ask client questions and update client the progress of our project.
 
-<h3> 2.7 Professional Team Attitude</h3>
-- We are always in contact with our client. 
-
-- We dress professional casual during our client meeting. 
-
-- We follow requirements and keep everything in confidentially as per.
 
 <br />
 <h2><a name = "Title3"> 3. Current Project Progress </a></h2>
@@ -131,10 +125,15 @@ The team have engaged well in the planning and reporting process outlined by us 
 </table>
 
 <h3>Current Status- Sprint 1 </h3>
+
 - Learn Angular5
+
 - Research on rostering system
+
 - UI Design
+
 - Display allocation in the project calendar per employee
+
 - Find more info on 
 [current status](https://tradeup123.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=TR&view=planning.nodetail&selectedIssue=TR-2&epics=visible)
 
@@ -166,7 +165,6 @@ We tried and used different tools in order to optimise our output
 - **Excel** for mock-up for algorithms
 - **Grails** for back-end
 - **JIRA** for agile project management
-- **Doodle** for organising meeting
 - **Slack** for communication
 - **Github** for landing page
 - **Google Drive** for notes and documents
