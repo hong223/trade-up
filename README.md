@@ -126,13 +126,13 @@ The team have engaged well in the planning and reporting process outlined by us 
 
 <h3>Current Status- Sprint 1 </h3>
 
-- Learn Angular5
+- Learn Angular5<br />
 
-- Research on rostering system
+- Research on rostering system<br />
 
-- UI Design
+- UI Design<br />
 
-- Display allocation in the project calendar per employee
+- Display allocation in the project calendar per employee<br />
 
 - Find more info on 
 [current status](https://tradeup123.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=TR&view=planning.nodetail&selectedIssue=TR-2&epics=visible)
