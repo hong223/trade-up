@@ -66,18 +66,18 @@ The team have engaged well in the planning and reporting process outlined by us 
 
 <h3> 2.4 Team </h3>
 
-| Team Member                      |        Role           | 
-| ---------------------------------| ----------------------| 
-| Annalisa O'Sullivan              | Client                |
-| Trent O'Sullivan                 | Client                | 
-| David Roussov                    | Client                | 
-| Hong You                         | Project Leader        | 
-| Tianhao Li                       | Technical Leader      |
-| Honggu Lin                       | Back-End Developer    |
-| Lin Peng                         | Front-End Developer   |
-| Jie Gao                          | Front-End Developer   |
-| Xinyu Hou                        | Front-End Developer   |
-| Qingyang Li                      | Front-End Developer   |
+| Team Member                      |               Role              | 
+| ---------------------------------| ------------------------------- | 
+| Annalisa O'Sullivan              | Client                          |
+| Trent O'Sullivan                 | Client                          | 
+| David Roussov                    | Client                          | 
+| Hong You                         | Project Leader & Back-End       | 
+| Tianhao Li                       | Technical Leader                |
+| Honggu Lin                       | Back-End Developer              |
+| Lin Peng                         | Front-End Developer             |
+| Jie Gao                          | Front-End Developer             |
+| Xinyu Hou                        | Front-End Developer             |
+| Qingyang Li                      | Front-End Developer             |
 
 
 [Detailed Information](https://docs.google.com/spreadsheets/d/1H-H8VXIQRvcCQ0B4kPnGwj3BTp5xR1Af0nwAcy8HQQo/edit#gid=0)
@@ -174,8 +174,11 @@ We tried and used different tools in order to optimise our output
 Meeting Note in 
 [Google Drive](https://drive.google.com/drive/folders/0Bzc3lP9XuDfva1U5T2NraHpsa2M)
 
+<br />
 Meeting 1 
-![image](https://github.com/hong223/trade-up/blob/master/29133241_414994552257641_6981202248516763648_o.jpg)
+![image](https://github.com/hong223/trade-up/blob/master/29133241_414994552257641_6981202248516763648_o.jpg =250x250)
+![image](https://github.com/hong223/trade-up/blob/master/29103711_414992355591194_7725790569363931136_n.jpg =250x250)
+
 
 <br />
 <br />
