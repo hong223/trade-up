@@ -73,11 +73,11 @@ The team have engaged well in the planning and reporting process outlined by us 
 | David Roussov                    | Client                | 
 | Hong You                         | Project Leader        | 
 | Tianhao Li                       | Technical Leader      |
-| Honggu Lin                       | Developer             |
-| Lin Peng                         | Developer             |
-| Jie Gao                          | Developer             |
-| Xinyu Hou                        | Developer             |
-| Qingyang Li                      | Developer             |
+| Honggu Lin                       | Back-End Developer    |
+| Lin Peng                         | Front-End Developer   |
+| Jie Gao                          | Front-End Developer   |
+| Xinyu Hou                        | Front-End Developer   |
+| Qingyang Li                      | Front-End Developer   |
 
 
 [Detailed Information](https://docs.google.com/spreadsheets/d/1H-H8VXIQRvcCQ0B4kPnGwj3BTp5xR1Af0nwAcy8HQQo/edit#gid=0)
