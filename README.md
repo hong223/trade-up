@@ -174,6 +174,9 @@ We tried and used different tools in order to optimise our output
 Meeting Note in 
 [Google Drive](https://drive.google.com/drive/folders/0Bzc3lP9XuDfva1U5T2NraHpsa2M)
 
+Meeting 1 
+![image](https://github.com/hong223/trade-up/blob/master/29133241_414994552257641_6981202248516763648_o.jpg)
+
 <br />
 <br />
 <h2><a name = "Title7"> 7. Extra</a></h2>
