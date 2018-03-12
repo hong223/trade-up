@@ -176,8 +176,8 @@ Meeting Note in
 
 <br />
 Meeting 1 
-<img src="https://github.com/hong223/trade-up/blob/master/29103711_414992355591194_7725790569363931136_n.jpg" width="48" height="45">
-<img src="https://github.com/hong223/trade-up/blob/master/29133241_414994552257641_6981202248516763648_o.jpg" width="40" height="45">
+<img src="https://github.com/hong223/trade-up/blob/master/29103711_414992355591194_7725790569363931136_n.jpg" width="250">
+<img src="https://github.com/hong223/trade-up/blob/master/29133241_414994552257641_6981202248516763648_o.jpg" width="250">
 
 
 <br />
