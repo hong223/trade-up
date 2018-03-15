@@ -16,7 +16,7 @@
 
 <h2><a name = "Title1"> 1.Project Overview </a></h2>
 
-[Trade Up](www.trade-up.com/au) is a software company that aims to solve the inefficiency of the labour usage in Australian construction companies. The cost of employment as well as the cost of materials are consistent amongst subcontractors due to industrial relations and working conditions such as weather. Thus, it is vital to point out the amount of workers working on particular jobs in terms of economic terms. This will help to carry out work using the least amount of money.
+[Trade Up](http://www.trade-up.com.au/) is a software company that aims to solve the inefficiency of the labour usage in Australian construction companies. The cost of employment as well as the cost of materials are consistent amongst subcontractors due to industrial relations and working conditions such as weather. Thus, it is vital to point out the amount of workers working on particular jobs in terms of economic terms. This will help to carry out work using the least amount of money.
 
 **Client's Vision**
 Automate current default values associated with productivity of construction companies with existing and future data. 
