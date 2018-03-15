@@ -16,7 +16,7 @@
 
 <h2><a name = "Title1"> 1.Project Overview </a></h2>
 
-[Trade Up](www.trade-up.com/au) is a software company that aims to solve the inefficiency of the labour usage in Australian construction companies. The cost of employment as well as the cost of materials are consistent amongst subcontractors due to industrial relations and working conditions such as weather. Thus, it is vital to point out the amount of workers working on particular jobs in terms of economic terms. This will help to carry out work using the least amount of money.
+[Trade Up](http://www.trade-up.com.au/) is a software company that aims to solve the inefficiency of the labour usage in Australian construction companies. The cost of employment as well as the cost of materials are consistent amongst subcontractors due to industrial relations and working conditions such as weather. Thus, it is vital to point out the amount of workers working on particular jobs in terms of economic terms. This will help to carry out work using the least amount of money.
 
 **Client's Vision**
 Automate current default values associated with productivity of construction companies with existing and future data. 
@@ -87,7 +87,7 @@ The team have engaged well in the planning and reporting process outlined by us 
 - Team communication have been transitioned from Facebook to Slack where team have the opportunity to communicate with internal team members, client, tutor, and shadow team within one platform. 
 
 <h3> 2.5 Development Approach </h3>
-- The development approach we adapt is agile methodology. We hold weekly sunday meetings consists of Scrum. The time of our weekly Scrum meeting is from 2pm - 3pm every Saturday at the provided workspace by Trade Up. 
+- The development approach we adapt is agile methodology. We hold weekly Saturday meetings consists of Scrum. The time of our weekly Scrum meeting is from 2pm - 3pm every Saturday at the provided workspace by Trade Up. 
 
 - Each team member answers 3 following questions: 
  1. "What they have done?"
