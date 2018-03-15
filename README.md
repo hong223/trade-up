@@ -87,7 +87,7 @@ The team have engaged well in the planning and reporting process outlined by us 
 - Team communication have been transitioned from Facebook to Slack where team have the opportunity to communicate with internal team members, client, tutor, and shadow team within one platform. 
 
 <h3> 2.5 Development Approach </h3>
-- The development approach we adapt is agile methodology. We hold weekly sunday meetings consists of Scrum. The time of our weekly Scrum meeting is from 2pm - 3pm every Saturday at the provided workspace by Trade Up. 
+- The development approach we adapt is agile methodology. We hold weekly Saturday meetings consists of Scrum. The time of our weekly Scrum meeting is from 2pm - 3pm every Saturday at the provided workspace by Trade Up. 
 
 - Each team member answers 3 following questions: 
  1. "What they have done?"
