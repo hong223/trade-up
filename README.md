@@ -111,7 +111,7 @@ The team have engaged well in the planning and reporting process outlined by us 
 
 <table borde r= 3>
 <tr align = "center">
-<th>Current sprint</th>
+<th>sprint</th>
 <th>sprint 1</th>
 </tr>
 <tr align = "center">
