@@ -215,9 +215,12 @@ We tried and used different tools in order to optimise our output
 - **Google Drive** for notes and documents
 
 <br />
-<h2><a name = "Title6"> 6. Meetings</a></h2>
-Meeting Note in 
+<h2><a name = "Title6"> 6. Appropriate Documentation</a></h2>
+Weekly Scrum Meeting 
 [Google Drive](https://drive.google.com/drive/folders/0Bzc3lP9XuDfva1U5T2NraHpsa2M)
+[Google Drive](https://drive.google.com/drive/folders/1Ai-7SQrBgczACtOz4PmumEzoDFEwPCnN)
+Client Meeting
+[Google Drive](https://drive.google.com/drive/folders/1aOjSC9K9uAGF44ScHBw86N8XYgL6C-2C)
 
 <br />
 Meeting 1 
