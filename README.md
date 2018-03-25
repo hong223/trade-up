@@ -216,19 +216,12 @@ We tried and used different tools in order to optimise our output
 
 <br />
 <h2><a name = "Title6"> 6. Appropriate Documentation</a></h2>
-Weekly Scrum Meeting 
-[Google Drive](https://drive.google.com/drive/folders/0Bzc3lP9XuDfva1U5T2NraHpsa2M)
-[Google Drive](https://drive.google.com/drive/folders/1Ai-7SQrBgczACtOz4PmumEzoDFEwPCnN)
-Client Meeting
-[Google Drive](https://drive.google.com/drive/folders/1aOjSC9K9uAGF44ScHBw86N8XYgL6C-2C)
+Weekly Scrum Meeting <br />
+[Google Drive](https://drive.google.com/drive/folders/0Bzc3lP9XuDfva1U5T2NraHpsa2M) <br />
+[Google Drive](https://drive.google.com/drive/folders/1Ai-7SQrBgczACtOz4PmumEzoDFEwPCnN) <br />
+Client Meeting <br />
+[Google Drive](https://drive.google.com/drive/folders/1aOjSC9K9uAGF44ScHBw86N8XYgL6C-2C) <br />
 
-<br />
-Meeting 1 
-<img src="https://github.com/hong223/trade-up/blob/master/29103711_414992355591194_7725790569363931136_n.jpg" width="250">
-<img src="https://github.com/hong223/trade-up/blob/master/29133241_414994552257641_6981202248516763648_o.jpg" width="250">
-
-
-<br />
 <br />
 <h2><a name = "Title7"> 7. Extra</a></h2>
 
