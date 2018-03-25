@@ -154,13 +154,13 @@ The team have engaged well in the planning and reporting process outlined by us 
 
 - Discuss, design and optimise rostering system<br />
 
-- Rebuild the Employee Calendar with Angular JS5<br />
+- Rebuild the Employee Availability Calendar with Angular JS5<br />
 
 - Display allocation in the new project calendar per employee<br />
 
 - Discuss with client abhout the features<br />
 
-- Add and change the features in the Employee Calendar<br />
+- Add and change the features in the Employee Availability Calendar<br />
 
 - Discuss with client abhout the UI design about calendar<br />
 
