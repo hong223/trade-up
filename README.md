@@ -226,7 +226,8 @@ We tried and used different tools in order to optimise our output
     [Documentations 2](https://drive.google.com/drive/folders/1Ai-7SQrBgczACtOz4PmumEzoDFEwPCnN) <br />
 - Client Meeting <br />
     [Documentations 3](https://drive.google.com/drive/folders/1aOjSC9K9uAGF44ScHBw86N8XYgL6C-2C) <br />
-    
+- Group communication and discussion <br />
+    [Click to view](https://github.com/hong223/trade-up/tree/master/meeting-photo)    
 
 <br />
 <h2><a name = "Title7"> 7. Extra</a></h2>
