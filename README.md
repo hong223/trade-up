@@ -7,7 +7,7 @@
 <h2><a name = "content"> Table of Contents </a></h2>
 <a href = "#Title1"><b> 1. Project Overview </b></a><br/>
 <a href = "#Title2"><b> 2. Project Governance </b></a><br/>
-<a href = "#Title3"><b> 3. Project Progress </b></a><br/>
+<a href = "#Title3"><b> 3. Project Progress (With value delivered to client)</b></a><br/>
 <a href = "#Title4"><b> 4. Effective and Appropriate Decision Making </b></a><br/>
 <a href = "#Title5"><b> 5. Project Outputs </b></a><br/>
 <a href = "#Title6"><b> 6. Appropriate Documentation</b></a><br/>
@@ -107,7 +107,7 @@ The team have engaged well in the planning and reporting process outlined by us 
 
 
 <br />
-<h2><a name = "Title3"> 3. Project Progress </a></h2>
+<h2><a name = "Title3"> 3. Project Progress (With value delivered to client)</a></h2>
 
 <table borde r= 3>
 <tr align = "center">
