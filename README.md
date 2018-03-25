@@ -107,7 +107,7 @@ The team have engaged well in the planning and reporting process outlined by us 
 
 
 <br />
-<h2><a name = "Title3"> 3. Current Project Progress </a></h2>
+<h2><a name = "Title3"> 3. Project Progress </a></h2>
 
 <table borde r= 3>
 <tr align = "center">
