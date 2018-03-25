@@ -185,9 +185,18 @@ We make decisions during the client meeting and scrum meeting and the decision m
 <h2><a name = "Title5"> 5. Project Outputs </a></h2>
 
 <h3> 5.1 Technical Depth of Outputs:</h3>
+<h4> Week 3 to week 4 </h3>
 
-- Current status is in progress with research, UI design for the Epic 2 rostering system. 
+- status are in progress with research, UI design for the Epic 2 rostering system. 
 - Team members will have to figure out how to design and implement a rostering system with flexibility of moving employees from project to project.  
+
+<h4> Week 5 to week 6 </h3>
+
+- Decide the features and implementation approach about the rostering system.
+- Final version of UI design of each part of the rostering system.
+- Mock up about each calender.
+- Create database and functions.
+- Programming Employee Availability Calendar.
 
 <h3>System Archictecture of The Protyping System/Environment</h3>
 
