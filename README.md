@@ -158,11 +158,11 @@ The team have engaged well in the planning and reporting process outlined by us 
 
 - Display allocation in the new project calendar per employee<br />
 
-- Discuss with client abhout the features<br />
+- Discuss with client about the features<br />
 
 - Add and change the features in the Employee Availability Calendar<br />
 
-- Discuss with client abhout the UI design about calendar<br />
+- Discuss with client about the UI design about calendar<br />
 
 - Design the UI design about calendar<br />
 
