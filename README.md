@@ -9,7 +9,7 @@
 <a href = "#Title2"><b> 2. Project Governance </b></a><br/>
 <a href = "#Title3"><b> 3. Project Progress (With value delivered to client)</b></a><br/>
 <a href = "#Title4"><b> 4. Effective and Appropriate Decision Making </b></a><br/>
-<a href = "#Title5"><b> 5. Project Outputs </b></a><br/>
+<a href = "#Title5"><b> 5. Project Outputs (Technical Artefacts)</b></a><br/>
 <a href = "#Title6"><b> 6. Appropriate Documentation</b></a><br/>
 <a href = "#Title7"><b> 7. Extra</b></a><br/>
 <br />
@@ -182,7 +182,7 @@ We make decisions during the client meeting and scrum meeting and the decision m
 
 <br />
 
-<h2><a name = "Title5"> 5. Project Outputs </a></h2>
+<h2><a name = "Title5"> 5. Project Outputs (Technical Artefacts)</a></h2>
 
 <h3> 5.1 Technical Depth of Outputs:</h3>
 <h4> Week 3 to week 4 </h3>
