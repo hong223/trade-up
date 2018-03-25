@@ -196,7 +196,7 @@ We make decisions during the client meeting and scrum meeting and the decision m
 - Final version of UI design of each part of the rostering system.[Click to view UI design](https://drive.google.com/drive/folders/1ZMt-Yck6qQI3N30vdpTaPF4B-zPZUN43)
 - Mock up about each calender.[Click to view mock up](https://drive.google.com/drive/folders/1167UJV-z944AT5nvKgqWDcIvfj_lqkT4)
 - Create database and functions.
-- Programming Employee Availability Calendar.[Click to view code](https://drive.google.com/drive/folders/1ZMt-Yck6qQI3N30vdpTaPF4B-zPZUN43)
+- Programming Employee Availability Calendar.[Click to view code](https://github.com/hong223/trade-up/tree/fullcalendar-init)
 
 <h3>System Archictecture of The Protyping System/Environment</h3>
 
