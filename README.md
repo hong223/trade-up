@@ -194,7 +194,7 @@ We make decisions during the client meeting and scrum meeting and the decision m
 
 - Decide the features and implementation approach about the rostering system.
 - Final version of UI design of each part of the rostering system.
-- Mock up of each calender.[View the mock up](https://drive.google.com/drive/folders/0Bzc3lP9XuDfva1U5T2NraHpsa2M)
+- Mock up of each calender. [Click to view the mock up](https://drive.google.com/drive/folders/1167UJV-z944AT5nvKgqWDcIvfj_lqkT4)
 - Create database and functions.
 - Programming Employee Availability Calendar.
 
