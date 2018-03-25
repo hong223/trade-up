@@ -10,8 +10,8 @@
 7. Load and start mysql service: `brew services start mysql`
 8. Set up mysql: `mysqladmin -u root password 'password'`
 9. Install [Git](https://git-scm.com/downloads) and clone the repository
-10. Connect to the calendar database: mysql --user=root --password calendar
-11. From the project root directory, run the command: source initialise.sql
+10. Open mysql `mysql`, then type `create table calendar;`, then copy all the content in the initialise_EC.sql and paste
+11. save and quit
 
 ### Development Workflow
 go to the project directory
