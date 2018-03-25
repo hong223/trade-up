@@ -126,11 +126,9 @@ The team have engaged well in the planning and reporting process outlined by us 
 
 <h3> Status- Sprint 1 </h3>
 
-- Learn Angular5<br />
+- Learn Angular JS5<br />
 
 - Research on rostering system<br />
-
-- UI Design<br />
 
 - Display allocation in the project calendar per employee<br />
 
@@ -152,13 +150,25 @@ The team have engaged well in the planning and reporting process outlined by us 
 
 <h3> Current Status- Sprint 2 </h3>
 
-- Learn Angular5<br />
+- Learn Angular JS5 for advanced function and prepare for further step<br />
 
-- Research on rostering system<br />
+- Discuss, design and optimise rostering system<br />
 
-- UI Design<br />
+- rebuild the Employee Calendar with Angular JS5<br />
 
-- Display allocation in the project calendar per employee<br />
+- Display allocation in the new project calendar per employee<br />
+
+- Discuss with client abhout the features<br />
+
+- Add and change the features in the Employee Calendar<br />
+
+- Discuss with client abhout the UI design about calendar<br />
+
+- Design the UI design about calendar<br />
+
+- programming for front end, back end<br />
+
+- Connect front end and back end<br />
 
 - Find more info on 
 [current status](https://tradeup123.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=TR&view=planning.nodetail&selectedIssue=TR-2&epics=visible)
