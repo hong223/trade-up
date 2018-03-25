@@ -154,7 +154,7 @@ The team have engaged well in the planning and reporting process outlined by us 
 
 - Discuss, design and optimise rostering system<br />
 
-- rebuild the Employee Calendar with Angular JS5<br />
+- Rebuild the Employee Calendar with Angular JS5<br />
 
 - Display allocation in the new project calendar per employee<br />
 
@@ -166,7 +166,7 @@ The team have engaged well in the planning and reporting process outlined by us 
 
 - Design the UI design about calendar<br />
 
-- programming for front end, back end<br />
+- Programming for front end, back end<br />
 
 - Connect front end and back end<br />
 
