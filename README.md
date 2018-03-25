@@ -173,6 +173,8 @@ The team have engaged well in the planning and reporting process outlined by us 
 - Find more info on 
 [current status](https://tradeup123.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=TR&view=planning.nodetail&selectedIssue=TR-2&epics=visible)
 
+- More details and explainations on [Slides](https://github.com/hong223/trade-up/tree/master/techlauncher-master)
+
 <br />
 <h2><a name = "Title4"> 4. Effective and Appropriate Decision Making </a></h2>
 
