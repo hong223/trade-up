@@ -124,7 +124,33 @@ The team have engaged well in the planning and reporting process outlined by us 
 </tr>
 </table>
 
-<h3>Current Status- Sprint 1 </h3>
+<h3> Status- Sprint 1 </h3>
+
+- Learn Angular5<br />
+
+- Research on rostering system<br />
+
+- UI Design<br />
+
+- Display allocation in the project calendar per employee<br />
+
+
+<table borde r= 3>
+<tr align = "center">
+<th>sprint</th>
+<th>sprint 2</th>
+</tr>
+<tr align = "center">
+<td><b>Total sprints in this semester</b></td>
+<td><b>4</b></td>
+</tr>
+<tr align = "center">
+<td><b>Period</b></td>
+<td><b>19th March to 1st April</b></td>
+</tr>
+</table>
+
+<h3> Current Status- Sprint 2 </h3>
 
 - Learn Angular5<br />
 
