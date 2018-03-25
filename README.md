@@ -193,8 +193,8 @@ We make decisions during the client meeting and scrum meeting and the decision m
 <h4> Week 5 to week 6 </h3>
 
 - Decide the features and implementation approach about the rostering system.
-- Final version of UI design of each part of the rostering system.
-- Mock up about each calender.
+- Final version of UI design of each part of the rostering system.[Click to view UI design](https://drive.google.com/drive/folders/1ZMt-Yck6qQI3N30vdpTaPF4B-zPZUN43)
+- Mock up about each calender.[Click to view mock up](https://drive.google.com/drive/folders/1167UJV-z944AT5nvKgqWDcIvfj_lqkT4)
 - Create database and functions.
 - Programming Employee Availability Calendar.
 
