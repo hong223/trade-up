@@ -8,6 +8,10 @@ declare let $: any;
 })
 export class AppComponent {
 	ngOnInit() {
-		$('#calendar').fullCalendar({});
+		$('#calendar').fullCalendar({
+			dayClick: function(date, jsEvent, view) {
+    		alert('Clicked on: ' + date.format());
+			}
+		});
 	}
 }
