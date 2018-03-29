@@ -7,16 +7,19 @@
 4. Install [Git](https://git-scm.com/downloads) and clone the repository
 5. Connect to your local database: mysql -u root -p
 6. Create database tradeup for this project: CREATE DATABASE tradeup;
-7. Initialise the database using initialise.sql and public_holiday.sql: source initialise.sql; source public_holiday.sql;
+7. Then type in `use tradeup;`
+8. Initialise the database using initialise.sql and public_holiday.sql by following step 8 and 9; 
+9. Open the folder containing the initialise.sql and drag the file into the terminal so that the source will appear; 
+10. Open the folder containing the public_holiday.sql and drag the file into the terminal so that the source will appear;
 
 ### Development Workflow
 go to the project directory
 
 1. start the server:
-gradlew server:bootRun
+./gradlew server:bootRun
 
 2. start the client:
-gradlew client:bootRun
+./gradlew client:bootRun
 
 
 #### Notes
