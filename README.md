@@ -75,7 +75,7 @@ The team have engaged well in the planning and reporting process outlined by us 
 | Tianhao Li                       | Technical Leader                |
 | Honggu Lin                       | Back-End Developer              |
 | Lin Peng                         | Front-End Developer             |
-| Jie Gao                          | Front-End Developer             |
+| Jie Gao                          | Test      Developer             |
 | Xinyu Hou                        | Front-End Developer             |
 | Qingyang Li                      | Front-End Developer             |
 
@@ -170,6 +170,10 @@ The team have engaged well in the planning and reporting process outlined by us 
 
 - Connect front end and back end<br />
 
+- Discuss with Client of the business value of automation testing. <br />
+
+- Experiement automation testing framework.<br />
+
 - Find more info on 
 [current status](https://tradeup123.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=TR&view=planning.nodetail&selectedIssue=TR-2&epics=visible)
 
@@ -217,6 +221,8 @@ We tried and used different tools in order to optimise our output
 - **Slack** for communication
 - **Github** for landing page
 - **Google Drive** for notes and documents
+- **GCP cloud platform** for hosting testing server
+- **Jenkins** for open-sourced automation tool
 
 <br />
 
