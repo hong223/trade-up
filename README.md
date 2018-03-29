@@ -232,8 +232,6 @@ We tried and used different tools in order to optimise our output
     [Click to view](https://drive.google.com/drive/folders/1B_c_HTqHwuFYNMYhrFvJkHeABBa6CVZB)    
 - Algorithm In Our Project <br />
     [Click to view](https://drive.google.com/drive/folders/1OPLjnr1sGR2TdBRuWLxZfJWT73LlvkzV)
-- Algorithm In Our Project <br />
-    [Click to view](https://drive.google.com/drive/folders/1OPLjnr1sGR2TdBRuWLxZfJWT73LlvkzV)
 
 <br />
 <h2><a name = "Title7"> 7. Extra</a></h2>
