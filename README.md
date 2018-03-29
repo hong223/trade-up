@@ -181,7 +181,7 @@ The team have engaged well in the planning and reporting process outlined by us 
 We make decisions during the client meeting and scrum meeting and the decision making documents are in Google Drive:
 
 [Decision Making Progress](https://docs.google.com/document/d/1rNijuexMwzqXhBVuOw6-GahGKt6cx17uGpKY4V0NzUo/edit)<br />
-[React on Feedback](https://drive.google.com/drive/folders/1Pf9EujU5TIjAiD7U_5D0yDuv5F7knn0y)
+[React on Feedback](https://drive.google.com/open?id=1pV3LtteTpcvCSm-DeyL_JJ8yhrjKVyAL)
 
 <br />
 
