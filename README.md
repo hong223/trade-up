@@ -200,6 +200,7 @@ We make decisions during the client meeting and scrum meeting and the decision m
 - Mock up about each calender.[Click to view mock up](https://drive.google.com/drive/folders/1167UJV-z944AT5nvKgqWDcIvfj_lqkT4)
 - System design and report.[Click to view](https://drive.google.com/drive/folders/19zGepCYaQkNmgzNSZFdpLAYaGG6QAciy)
 - Programming Employee Availability Calendar.[Click to view code](https://github.com/hong223/trade-up/tree/fullcalendar-init)
+- Database.[Click to view](https://drive.google.com/drive/folders/1T3hX4hfraH3C-boJQBa3ljX_xkShT8-g)
 
 <h3>System Archictecture of The Protyping System/Environment</h3>
 
