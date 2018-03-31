@@ -11,7 +11,7 @@
 8. Open mysql `mysql`;
 9. Create database tradeup for this project: `CREATE DATABASE tradeup;`
 10. type `use tradeup;`
-11. Go to the file directory that contain initialise.sql and public_holiday.sql and then go into mysql
+11. Go to the file directory that contain initialise.sql and public_holiday.sql and then go into mysql;
 12. Type `source initialise.sql` and `source public_holiday.sql;`
 
 ### Development Workflow
