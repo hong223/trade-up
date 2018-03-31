@@ -2,15 +2,17 @@
 
 ### Prerequisites
 1. Install [Node.js](https://nodejs.org/en/)
-2. Install Yarn: ```npm install -g yarn```
-3. Install [Grails 3](https://grails.org/download.html)
-4. Install [Git](https://git-scm.com/downloads) and clone the repository
-5. Connect to your local database: mysql -u root -p
-6. Create database tradeup for this project: CREATE DATABASE tradeup;
-7. Then type in `use tradeup;`
-8. Initialise the database using initialise.sql and public_holiday.sql by following step 8 and 9; 
-9. Open the folder containing the initialise.sql and drag the file into the terminal so that the source will appear; 
-10. Open the folder containing the public_holiday.sql and drag the file into the terminal so that the source will appear;
+2. Install Yarn: `npm install -g yarn`
+3. Install brew `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+4. Install [Grails 3] `brew install gradle`
+5. Install database: `brew install database`
+6. Install [Git](https://git-scm.com/downloads) and clone the repository
+7. Connect to the calendar database: mysql --user=root --password '1234'
+8. Open mysql `mysql`;
+9. Create database tradeup for this project: `CREATE DATABASE tradeup;`
+10. type `use tradeup;`
+11. Go to the file directory that contain initialise.sql and public_holiday.sql and then go into mysql
+12. Type `source initialise.sql` and `source public_holiday.sql;`
 
 ### Development Workflow
 go to the project directory
@@ -26,4 +28,3 @@ go to the project directory
 * After you make a change inside the client folder and save, webpack dev server will automatically reload the page with your changes
 * the server run on localhost:8080 by default
 * the client run on localhost:4200 by default
-* the public holiday on localhost:8080/holidays

@@ -4,13 +4,14 @@ import grails.rest.*
 
 @Resource(uri='/employee')
 class Employee {
-    String name
+    int employee_id
+    String employee_name
 
     static constraints = {
-        name blank:false
+        employee_id blank:false
     }
 
     String toString() {
-        name
+        employee_name
     }
 }

@@ -45,23 +45,23 @@ CREATE TABLE employee_normal_unavailable_days (
 );
 
 CREATE TABLE public_holiday(
-  ph_id    BIGINT NOT NULL AUTO_INCREMENT,
+  id    BIGINT NOT NULL AUTO_INCREMENT,
   name			VARCHAR(1000),
   start         DATE,
   end           DATE,
   country		VARCHAR(1000),
   region		VARCHAR(1000),
-  PRIMARY KEY (ph_id)
+  PRIMARY KEY (id)
 );
 
 #public holiday of project
 CREATE TABLE project_npd (
   project_npd_id  BIGINT NOT NULL AUTO_INCREMENT,
   project_id      INT NOT NULL,
-  ph_id          BIGINT NOT NULL,
+  id          BIGINT NOT NULL,
   PRIMARY KEY (project_npd_id),
   FOREIGN KEY (project_id) REFERENCES project (project_id),
-  FOREIGN KEY (ph_id) REFERENCES public_holiday (ph_id)
+  FOREIGN KEY (id) REFERENCES public_holiday (id)
 );
 
 

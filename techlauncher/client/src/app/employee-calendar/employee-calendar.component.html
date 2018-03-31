@@ -1,0 +1,26 @@
+<div id='calendar'></div>
+
+<div class="container">
+  <h1>Holiday List</h1>
+  <table class="table">
+    <thead>
+    <tr>
+      <th>Name</th>
+      <th>Start</th>
+      <th>End</th>
+      <th>Country</th>
+      <th>Region</th>
+
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let hd of holidays">
+      <td>{{ hd.name }}</td>
+      <td>{{ hd.start }}</td>
+      <td>{{hd.end}}</td>
+      <td>{{ hd.country }}</td>
+      <td>{{hd.region}}</td>
+    </tr>
+    </tbody>
+  </table>
+</div>

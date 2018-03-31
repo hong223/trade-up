@@ -5,16 +5,15 @@ import { LocationStrategy, HashLocationStrategy } from '@angular/common';
 import { NgbModule } from "@ng-bootstrap/ng-bootstrap";
 import { IndexComponent } from './index/index.component';
 import { AppComponent } from './app.component';
-import { NavComponent } from './nav/nav.component';
-import { NavService } from './nav/nav.service';
 import { AppRoutingModule } from "./app-routing.module";
 import { HttpClientModule } from "@angular/common/http";
+import { EmployeeCalendarComponent } from './employee-calendar/employee-calendar.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    NavComponent,
-    IndexComponent
+    IndexComponent,
+    EmployeeCalendarComponent
   ],
   imports: [
     BrowserModule,
@@ -23,7 +22,7 @@ import { HttpClientModule } from "@angular/common/http";
     AppRoutingModule,
     NgbModule.forRoot()
   ],
-  providers: [{provide: LocationStrategy, useClass: HashLocationStrategy}, NavService],
+  providers: [{provide: LocationStrategy, useClass: HashLocationStrategy}],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

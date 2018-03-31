@@ -4,6 +4,7 @@ import grails.rest.*
 
 @Resource(uri='/holidays')
 class PublicHoliday {
+    BigInteger id
     String name
     Date start
     Date end
@@ -11,11 +12,7 @@ class PublicHoliday {
     String region
 
     static constraints = {
-        name blank: false
-        start blank: false
-        end blank: false
-        country blank: false
-        region blank: false
+        id blank: false
     }
 
     String toString() {
