@@ -1,0 +1,22 @@
+<div class="container">
+
+  <h2>xinyu's part</h2>
+
+    <div class="form-group">
+      <label for="event">Select an event:</label>
+      <select class="event-control" id="event"
+              required
+              [(ngModel)]="model.event" name="event"
+              #event="ngModel">
+              <option *ngFor="let e of events" [value]="e">{{e}}</option>
+      </select>
+    </div>
+
+    <br>
+
+    <!--<div class="row">-->
+      <div class="col-xs-3">Display the reason:</div>
+      <div class="col-xs-9 pull-left">{{ model.event }}</div>
+    <!--</div>-->
+
+</div>

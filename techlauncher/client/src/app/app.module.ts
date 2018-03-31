@@ -9,13 +9,15 @@ import { AppRoutingModule } from "./app-routing.module";
 import { HttpClientModule } from "@angular/common/http";
 import { EmployeeCalendarComponent } from './employee-calendar/employee-calendar.component';
 import { DialogModalComponent } from './dialog-modal/dialog-modal.component';
+import { MyEventComponent } from './my-event/my-event.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     IndexComponent,
     EmployeeCalendarComponent,
-    DialogModalComponent
+    DialogModalComponent,
+    MyEventComponent
   ],
   imports: [
     BrowserModule,
