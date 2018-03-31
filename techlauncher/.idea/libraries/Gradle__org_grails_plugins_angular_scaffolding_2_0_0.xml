@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails.plugins:angular-scaffolding:2.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/angular-scaffolding/2.0.0/4935ee6767adc8cbfdf91dd6f51f6e28eb01068f/angular-scaffolding-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/angular-scaffolding/2.0.0/a16011dec3a7e37800700c5c6599e50e2a621ab6/angular-scaffolding-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
