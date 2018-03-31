@@ -29,7 +29,8 @@ export class EmployeeCalendarComponent implements OnInit {
 			  end: holiday.end.split('T')[0]
 			}
 	  });
-  	console.log(this.holidays);
+
+
 		$('#calendar').fullCalendar({
 			header: {
 				left: 'prev,next today',
@@ -41,15 +42,22 @@ export class EmployeeCalendarComponent implements OnInit {
 
 			events: hds,
 
+			dayClick: function(date, jsEvent, view) {
+				//add pop up window inside
+
+				alert('Clicked on: ' + date.format());
+
+			},
+
 			loading: function(bool) {
 				$('#loading').toggle(bool);
 			}
 
+
 		});
   }
 
-
-
+	
   ngOnInit() {
 		console.log("hello")
 	  this.getPublicHoliday();
