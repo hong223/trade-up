@@ -47,7 +47,8 @@ export class EmployeeCalendarComponent implements OnInit {
 
 			events: [
 				{
-					title  : 'event1',
+					// put the reason into the "event bar", after the SAVE button finished.
+					title  : 'event 1',
 					start  : '2018-03-01'
 				}
 			],
