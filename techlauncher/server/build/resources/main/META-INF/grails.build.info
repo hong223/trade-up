@@ -1,6 +1,0 @@
-#Wed, 28 Mar 2018 12:04:43 +1100
-
-info.app.version=0.1
-info.app.name=server
-grails.env=development
-info.app.grailsVersion=3.3.3
