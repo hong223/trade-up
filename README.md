@@ -18,7 +18,7 @@
 
 [Trade Up](http://www.trade-up.com.au/) is a software company that aims to solve the inefficiency of the labour usage in Australian construction companies. Trade-Up has several platforms that perform different functions to reduce costs among subcontractors, track resources and site productivity, automated timesheet logs, and site diaries. 
 
-### Client's Vision
+#### Client's Vision
 Automate different components of current and future features on the existing platform to improve subcontractos' productivity, efficiency, and help them save and time money. 
 
 #### Project Value
