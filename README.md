@@ -7,27 +7,26 @@
 <h2><a name = "content"> Table of Contents </a></h2>
 <a href = "#Title1"><b> 1. Project Overview </b></a><br/>
 <a href = "#Title2"><b> 2. Project Governance </b></a><br/>
-<a href = "#Title3"><b> 3. Project Progress (With value delivered to client)</b></a><br/>
+<a href = "#Title3"><b> 3. Project Progress</b></a><br/>
 <a href = "#Title4"><b> 4. Effective and Appropriate Decision Making </b></a><br/>
-<a href = "#Title5"><b> 5. Project Outputs (Technical Artefacts)</b></a><br/>
+<a href = "#Title5"><b> 5. Project Outputs</b></a><br/>
 <a href = "#Title6"><b> 6. Appropriate Documentation</b></a><br/>
 <a href = "#Title7"><b> 7. Extra</b></a><br/>
 <br />
 
-<h2><a name = "Title1"> 1.Project Overview </a></h2>
+<h2><a name = "Title1"> 1. Project Overview </a></h2>
 
-[Trade Up](http://www.trade-up.com.au/) is a software company that aims to solve the inefficiency of the labour usage in Australian construction companies. The cost of employment as well as the cost of materials are consistent amongst subcontractors due to industrial relations and working conditions such as weather. Thus, it is vital to point out the amount of workers working on particular jobs in terms of economic terms. This will help to carry out work using the least amount of money.
+[Trade Up](http://www.trade-up.com.au/) is a software company that aims to solve the inefficiency of the labour usage in Australian construction companies. Trade-Up has several platforms that perform different functions to reduce costs among subcontractors, track resources and site productivity, automated timesheet logs, and site diaries. 
 
-**Client's Vision**
-Automate current default values associated with productivity of construction companies with existing and future data. 
+###Client's Vision###
+Automate different components of current and future features on the existing platform to improve subcontractos' productivity, efficiency, and help them save and time money. 
 
-**Project Value**
-Provide a user friendly platform that can calculate employees' productivity, roster and allocate employees, and generate smart decisions with users' data within the context of productivity.
+####Project Value####
+As part of the Techlauncher team for Trade-Up, we will develop and provide a user friendly platform that can calculate employees' productivity, roster and allocate employees, and generate smart decisions with users' data within the context of productivity.
 
-- Trade-Up clients including subcontractors are able to visualise the project work productivity instead of using paper & pen.
-- Subcontractors will be able to transition from collecting and tracking employees' workflow online instead of paper & pen approach.
-- Trade-Up will have the ability to transfer created calendar and resource estaimte algorithms to their other features.  
-- Rostering system that can allocate employees to each project . 
+1. Subcontractors will be able to visualise the employee's rosters and timesheets online.
+2. Subcontractors would take more than an hour to complete rostering, but with the component that we are offering to Trade-Up, they will be able to complete rostering within less than 30 minutes. 
+3. Trade-Up will have the ability to transfer created component from this project to future components. 
 
 <br />
 <h2><a name = "Title2"> 2. Project Governance </a></h2>
