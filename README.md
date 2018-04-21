@@ -11,7 +11,6 @@
 <a href = "#Title4"><b> 4. Effective and Appropriate Decision Making </b></a><br/>
 <a href = "#Title5"><b> 5. Project Outputs</b></a><br/>
 <a href = "#Title6"><b> 6. Appropriate Documentation</b></a><br/>
-<a href = "#Title7"><b> 7. Extra</b></a><br/>
 <br />
 
 <h2><a name = "Title1"> 1. Project Overview </a></h2>
@@ -292,7 +291,4 @@ We tried and used different tools in order to optimise our output
     [Click to view](https://drive.google.com/drive/folders/1OPLjnr1sGR2TdBRuWLxZfJWT73LlvkzV)
 
 <br />
-<h2><a name = "Title7"> 7. Extra</a></h2>
 
-![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Project%20Showcase.jpg?raw=true)
-<p align="center" vertical-align="middle"><b> Team showcase from Epic 1</b></p>
