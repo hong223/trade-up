@@ -155,7 +155,7 @@ Prepare for poster showcase.
 </tr>
 </table>
 
-<h3> Status- Sprint 2 </h3>
+>**Sprint 2** (Week 7 - Week 8)<br />
 
 - Learn Angular JS5 for advanced function and prepare for further step<br />
 
