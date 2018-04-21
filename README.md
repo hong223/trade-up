@@ -60,7 +60,7 @@ Prepare for poster showcase.
 
 <h3> 2.3 Traceability of \s </h3>
  
-![Sprint2](https://github.com/hong223/trade-up/blob/master/Screen%20Shot%202018-04-21%20at%204.22.37%20PM.png =500x500)
+![Sprint2](https://github.com/hong223/trade-up/blob/master/Screen%20Shot%202018-04-21%20at%204.22.37%20PM.png | width=500)
 
 <h3> 2.4 Team </h3>
 
