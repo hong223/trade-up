@@ -60,7 +60,8 @@ Prepare for poster showcase.
 <br />
 
 <h3> 2.3 Traceability of Actions </h3>
->**Sprint 1** (Week 5 - Week 6)<br />
+
+>**Sprint 1** (Week 2 - Week 4)<br />
 ![Sprint1](https://github.com/hong223/trade-up/blob/master/Screen%20Shot%202018-04-21%20at%204.37.48%20PM.png)
 
 >**Sprint 2** (Week 5 - Week 6)<br />
