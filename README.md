@@ -58,10 +58,9 @@ Prepare for poster showcase.
 [Decision Making Sheet](https://docs.google.com/document/d/1rNijuexMwzqXhBVuOw6-GahGKt6cx17uGpKY4V0NzUo/edit)
 <br />
 
-<h3> 2.3 Traceability of Actions </h3>
+<h3> 2.3 Traceability of \s </h3>
  
-![](trade-up/Screen Shot 2018-04-21 at 4.22.37 PM.png)
-<p align="center" vertical-align="middle"><b> Team showcase from Epic 1</b></p>
+![Image of Yaktocat](https://github.com/hong223/trade-up/blob/master/Screen%20Shot%202018-04-21%20at%204.22.37%20PM.png)
 
 <h3> 2.4 Team </h3>
 
