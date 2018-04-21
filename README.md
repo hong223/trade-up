@@ -116,6 +116,9 @@ Prepare for poster showcase.
 <br />
 <h2><a name = "Title3"> 3. Project Progress</a></h2>
 
+
+>**Sprint 1** (Week 3 - Week 4)<br />
+
 <table borde r= 3>
 <tr align = "center">
 <th>sprint</th>
@@ -131,15 +134,16 @@ Prepare for poster showcase.
 </tr>
 </table>
 
-<h3> Status- Sprint 1 </h3>
-
 - Learn Angular JS5<br />
 
 - Research on rostering system<br />
 
 - Display allocation in the project calendar per employee<br />
+Research, look at Angular tutorials, find similar rostering examples. <br />
+Understand client's needs and wants. <br />
+Create roster UI design. <br />
 
-
+>**Sprint 2** (Week 5 - Week 6)<br />
 <table borde r= 3>
 <tr align = "center">
 <th>sprint</th>
@@ -154,8 +158,6 @@ Prepare for poster showcase.
 <td><b>19th March to 1st April</b></td>
 </tr>
 </table>
-
->**Sprint 2** (Week 7 - Week 8)<br />
 
 - Learn Angular JS5 for advanced function and prepare for further step<br />
 
@@ -184,6 +186,8 @@ Prepare for poster showcase.
 
 </br>
 
+>**Sprint 3** (Week 7 - Week 8)<br />
+
 <table borde r= 3>
 <tr align = "center">
 <th>sprint</th>
@@ -199,8 +203,6 @@ Prepare for poster showcase.
 </tr>
 </table>
 
-<h3> Status- Sprint 3 </h3>
-
 - Complete employee availability<br />
 
 - Connect database with pages <br />
@@ -208,6 +210,8 @@ Prepare for poster showcase.
 - Retrieve required data for display <br />
 
 <br />
+
+>**Sprint 4** (Week 9 - Week 10)<br />
 
 <table borde r= 3>
 <tr align = "center">
@@ -223,8 +227,6 @@ Prepare for poster showcase.
 <td><b>23th April to 4th May</b></td>
 </tr>
 </table>
-
-<h3> Current Status- Sprint 4 </h3>
 
 - Complete project roster<br />
 
