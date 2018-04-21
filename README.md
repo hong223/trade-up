@@ -45,9 +45,12 @@ Start development for project calendar features.
 
 >**Sprint 3** (Week 7 - Week 8)<br />
 Link employee availability to the project calendar.
+Start the project roster.
 
 >**Sprint 4** (Week 9 - Week 10)<br />
-Set up final version of development & prepare for poster showcase.
+Develop project roster.
+Set up final version of development.
+Prepare for poster showcase.
 
 
 <h3> 2.2 Evidence of Decision Making</h3>
