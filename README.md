@@ -36,7 +36,9 @@ As part of the Techlauncher team for Trade-Up, we will develop and provide a use
 <h4>Milestone 1: Project Calendar</h4>
 
 >**Sprint 1** (Week 3 - Week 4)<br />
-Research, look at Angular tutorials, find similar rostering examples, and create roster UI design.
+Research, look at Angular tutorials, find similar rostering examples. <br />
+Understand client's needs and wants. <br />
+Create roster UI design. <br />
 
 >**Sprint 2** (Week 5 - Week 6)<br />
 Start development for project calendar features.<br />
@@ -52,19 +54,14 @@ Develop project roster.<br />
 Set up final version of development.<br />
 Prepare for poster showcase.
 
-
 <h3> 2.2 Evidence of Decision Making</h3>
-The team have engaged well in the planning and reporting process outlined by us at the beginning of the project. Every team members were involved in decision making and project planning. The team appear to be communicating well between themselves and are committed to achieving a customer product feature by the end of the semester. We have created a Decision Making Trace File to record all the decisions made either with our client or during group meeting since the beginning of the semester. 
-
 [Decision Making Sheet](https://docs.google.com/document/d/1rNijuexMwzqXhBVuOw6-GahGKt6cx17uGpKY4V0NzUo/edit)
-
+<br />
 
 <h3> 2.3 Traceability of Actions </h3>
-
-[See Jira Work log](https://tradeup123.atlassian.net/projects/TR/summary)
-
-[JIRA Dashboard](https://tradeup123.atlassian.net/secure/Dashboard.jspa)
-
+ 
+![](trade-up/Screen Shot 2018-04-21 at 4.22.37 PM.png)
+<p align="center" vertical-align="middle"><b> Team showcase from Epic 1</b></p>
 
 <h3> 2.4 Team </h3>
 
