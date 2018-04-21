@@ -42,15 +42,12 @@ Create roster UI design. <br />
 
 >**Sprint 2** (Week 5 - Week 6)<br />
 Start development for project calendar features.<br />
-![Sprint3](https://github.com/hong223/trade-up/blob/master/Screen%20Shot%202018-04-21%20at%204.24.13%20PM.png)
-
 
 <h4>Milestone 2: Employee Rostering</h4>
 
 >**Sprint 3** (Week 7 - Week 8)<br />
 Link employee availability to the project calendar.<br />
 Start the project roster.
-![Sprint2](https://github.com/hong223/trade-up/blob/master/Screen%20Shot%202018-04-21%20at%204.22.37%20PM.png)
 
 
 >**Sprint 4** (Week 9 - Week 10)<br />
@@ -64,8 +61,11 @@ Prepare for poster showcase.
 
 <h3> 2.3 Traceability of Actions </h3>
  
- 
+>**Sprint 2** (Week 5 - Week 6)<br />
+![Sprint2](https://github.com/hong223/trade-up/blob/master/Screen%20Shot%202018-04-21%20at%204.24.13%20PM.png)
 
+>**Sprint 3** (Week 7 - Week 8)<br />
+![Sprint3](https://github.com/hong223/trade-up/blob/master/Screen%20Shot%202018-04-21%20at%204.22.37%20PM.png)
 
 
 <h3> 2.4 Team </h3>
