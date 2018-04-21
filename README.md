@@ -114,7 +114,7 @@ Prepare for poster showcase.
 
 
 <br />
-<h2><a name = "Title3"> 3. Project Progress (With value delivered to client)</a></h2>
+<h2><a name = "Title3"> 3. Project Progress</a></h2>
 
 <table borde r= 3>
 <tr align = "center">
@@ -155,7 +155,7 @@ Prepare for poster showcase.
 </tr>
 </table>
 
-<h3> Current Status- Sprint 2 </h3>
+<h3> Status- Sprint 2 </h3>
 
 - Learn Angular JS5 for advanced function and prepare for further step<br />
 
@@ -181,6 +181,55 @@ Prepare for poster showcase.
 [current status](https://tradeup123.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=TR&view=planning.nodetail&selectedIssue=TR-2&epics=visible)
 
 - More details and explainations on [Audit Slides](https://drive.google.com/drive/folders/1Pf9EujU5TIjAiD7U_5D0yDuv5F7knn0y)
+
+</br>
+
+<table borde r= 3>
+<tr align = "center">
+<th>sprint</th>
+<th>sprint 3</th>
+</tr>
+<tr align = "center">
+<td><b>Total sprints in this semester</b></td>
+<td><b>4</b></td>
+</tr>
+<tr align = "center">
+<td><b>Period</b></td>
+<td><b>9th April to 20th April</b></td>
+</tr>
+</table>
+
+<h3> Status- Sprint 3 </h3>
+
+- Complete employee availability<br />
+
+- Connect database with pages <br />
+
+- Retrieve required data for display <br />
+
+<br />
+
+<table borde r= 3>
+<tr align = "center">
+<th>sprint</th>
+<th>sprint 4</th>
+</tr>
+<tr align = "center">
+<td><b>Total sprints in this semester</b></td>
+<td><b>4</b></td>
+</tr>
+<tr align = "center">
+<td><b>Period</b></td>
+<td><b>23th April to 4th May</b></td>
+</tr>
+</table>
+
+<h3> Current Status- Sprint 4 </h3>
+
+- Complete project roster<br />
+
+- Finalise two main components <br />
+
 
 <br />
 <h2><a name = "Title4"> 4. Effective and Appropriate Decision Making </a></h2>
