@@ -39,17 +39,17 @@ As part of the Techlauncher team for Trade-Up, we will develop and provide a use
 Research, look at Angular tutorials, find similar rostering examples, and create roster UI design.
 
 >**Sprint 2** (Week 5 - Week 6)<br />
-Start development for project calendar features.
+Start development for project calendar features.<br />
 
 <h4>Milestone 2: Employee Rostering</h4>
 
 >**Sprint 3** (Week 7 - Week 8)<br />
-Link employee availability to the project calendar.
+Link employee availability to the project calendar.<br />
 Start the project roster.
 
 >**Sprint 4** (Week 9 - Week 10)<br />
-Develop project roster.
-Set up final version of development.
+Develop project roster.<br />
+Set up final version of development.<br />
 Prepare for poster showcase.
 
 
